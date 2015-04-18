@@ -1,0 +1,5 @@
+Bin-Embed Built Tool.
+(C) 2015 Christian Gunderman
+
+Quick and dirty utility for serializing binary files into headers.
+Useful for embedded project icons and small binary resources.
